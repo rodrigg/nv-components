@@ -14,5 +14,6 @@ export { default as CheckBoxSiNo } from './components/checkbox/CheckBoxSiNo.svel
 export { default as CheckBox } from './components/checkbox/CheckBox.svelte';
 export { default as MenuUsuario } from './components/menu/MenuUsuario.svelte';
 export { default as DatePicker } from './components/datepicker/DatePicker.svelte';
+export { default as EcnaComponent } from './EcnaComponent.svelte';
 
 // Reexport your entry components here
