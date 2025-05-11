@@ -6,10 +6,17 @@
 	const { Story } = defineMeta({
 		title: 'Example/EcnaComponent',
 		component: EcnaComponent,
-		argTypes: {},
+		argTypes: {
+			texto: { control: 'color' },
+			size: {
+				control: { type: 'select' },
+				options: ['`red`', 'blue']
+			}
+		},
 		args: {}
 	});
 </script>
 
 <!-- More on writing stories with args: https://storybook.js.org/docs/writing-stories/args -->
 <Story name="Prueba" />
+<Story name="Prueba" args={{ texto: 'Hola ECNA', color: 'red' }} />
