@@ -1,7 +1,7 @@
 <svelte:options customElement="my-ecna" />
 
 <script lang="ts">
-	const { texto }: { texto: string } = $props();
+	const { texto, color }: { texto: string; color?: string } = $props();
 </script>
 
-<h1>{texto}</h1>
+<h1 style:color>{texto}</h1>
