@@ -5,12 +5,34 @@
 		texto,
 		color = 'black',
 		size,
-		subrayado
-	}: { texto: string; color?: string; size: string; subrayado: string } = $props();
+		importante
+	}: {
+		texto: string;
+		color?: string;
+		size: string;
+		importante: boolean;
+		parpadea: boolean;
+	} = $props();
 
 	const px = $derived(size === 'xs' ? '50px' : size === 'ms' ? '80px' : '120px');
 </script>
 
-<span style:color style:font-size={px} style:text-decoration={subrayado ? 'underline' : null}>
+<span class="btn" style:color class:importante style:font-size={px}>
 	{texto}
 </span>
+
+<style>
+	.importante {
+		font-weight: 700;
+		text-decoration: underline;
+	}
+	.parpadea {
+		animation: blink 0.8s steps(2, start) infinite;
+	}
+
+	@keyframes blink {
+		to {
+			visibility: hidden;
+		}
+	}
+</style>
