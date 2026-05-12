@@ -5,7 +5,8 @@
 		texto,
 		color = 'black',
 		size,
-		importante
+		importante,
+		parpadea
 	}: {
 		texto: string;
 		color?: string;
@@ -17,7 +18,7 @@
 	const px = $derived(size === 'xs' ? '50px' : size === 'ms' ? '80px' : '120px');
 </script>
 
-<span class="btn" style:color class:importante style:font-size={px}>
+<span class="btn" style:color class:importante class:parpadea style:font-size={px}>
 	{texto}
 </span>
 

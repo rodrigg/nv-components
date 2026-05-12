@@ -12,7 +12,8 @@
 				control: { type: 'select' },
 				options: ['xs', 'ms', 'ls']
 			},
-			subrayado: { control: { type: 'boolean' } }
+			parpadea: { control: { type: 'boolean' } },
+			importante: { control: { type: 'boolean' } }
 		},
 		args: {}
 	});
