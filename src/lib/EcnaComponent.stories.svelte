@@ -10,8 +10,9 @@
 			texto: { control: 'color' },
 			size: {
 				control: { type: 'select' },
-				options: ['`red`', 'blue']
-			}
+				options: ['xs', 'ms', 'ls']
+			},
+			subrayado: { control: { type: 'boolean' } }
 		},
 		args: {}
 	});
