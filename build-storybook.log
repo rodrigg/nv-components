@@ -1,10 +1,10 @@
 
 > @rodriggg/nv-components@0.0.2 build-storybook
-> storybook build --output-dir=C:\Users\ARODRI~1\AppData\Local\Temp\chromatic--19536-wWGNYnHsoWjv
+> storybook build --output-dir=C:\Users\ARODRI~1\AppData\Local\Temp\chromatic--8744-wKcmJJlF8wgj
 
 [1m@storybook/core v8.6.12
 [22m
-info => Cleaning outputDir: [36m..\..\..\Users\ARODRI~1\AppData\Local\Temp\chromatic--19536-wWGNYnHsoWjv[39m
+info => Cleaning outputDir: [36m..\..\..\Users\ARODRI~1\AppData\Local\Temp\chromatic--8744-wKcmJJlF8wgj[39m
 info => Loading presets
 WARN The "@storybook/addon-mdx-gfm" addon is meant as a migration assistant for Storybook 8.0; and will likely be removed in a future version.
 WARN It's recommended you read this document:
@@ -12,62 +12,62 @@ WARN https://storybook.js.org/docs/writing-docs/mdx#markdown-tables-arent-render
 WARN 
 WARN Once you've made the necessary changes, you can remove the addon from your package.json and storybook config.
 info => Building manager..
-info => Manager built ([38;2;181;126;229m311 ms[39m)
+info => Manager built ([38;2;181;126;229m243 ms[39m)
 info => Building preview..
 [36mvite v5.4.11 [32mbuilding for production...[36m[39m
 transforming...
 [32m✓[39m 1598 modules transformed.
 rendering chunks...
 computing gzip size...
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[32massets/context-C0qIqeS4.png                [39m[1m[2m    6.12 kB[22m[1m[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[32massets/styling-Bk6zjRzU.png                [39m[1m[2m    7.24 kB[22m[1m[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[32miframe.html                                [39m[1m[2m   16.34 kB[22m[1m[22m[2m │ gzip:   4.43 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[32massets/docs---vsFbMi.png                   [39m[1m[2m   27.88 kB[22m[1m[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[32massets/share-DGA-UcQf.png                  [39m[1m[2m   40.77 kB[22m[1m[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[32massets/accessibility-W_h2acOZ.png          [39m[1m[2m   42.34 kB[22m[1m[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[32massets/figma-plugin-CH2hELiO.png           [39m[1m[2m   44.25 kB[22m[1m[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[32massets/theming-D6WJLNoW.png                [39m[1m[2m   44.37 kB[22m[1m[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[32massets/testing-cbzR9l9r.png                [39m[1m[2m   49.31 kB[22m[1m[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[32massets/addon-library-BWUCAmyN.png          [39m[1m[2m  467.37 kB[22m[1m[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[35massets/Header-Ck-SSN7O.css                 [39m[1m[2m    0.51 kB[22m[1m[22m[2m │ gzip:   0.30 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[35massets/Button-CGkL19V-.css                 [39m[1m[2m    0.52 kB[22m[1m[22m[2m │ gzip:   0.29 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[35massets/Page-DBaC2xQA.css                   [39m[1m[2m    0.93 kB[22m[1m[22m[2m │ gzip:   0.40 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/preview-CIRcjyVj.js                 [39m[1m[2m    0.11 kB[22m[1m[22m[2m │ gzip:   0.11 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/preview-DQ3pr01T.js                 [39m[1m[2m    0.16 kB[22m[1m[22m[2m │ gzip:   0.16 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/preview-DFmD0pui.js                 [39m[1m[2m    0.17 kB[22m[1m[22m[2m │ gzip:   0.15 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/_commonjsHelpers-Cpj98o6Y.js        [39m[1m[2m    0.24 kB[22m[1m[22m[2m │ gzip:   0.18 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/index-client-gnGcHnVc.js            [39m[1m[2m    0.26 kB[22m[1m[22m[2m │ gzip:   0.21 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/index-Cp8InYy-.js                   [39m[1m[2m    0.31 kB[22m[1m[22m[2m │ gzip:   0.21 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/index-BuvqkFXL.js                   [39m[1m[2m    0.39 kB[22m[1m[22m[2m │ gzip:   0.26 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/preview-DGUiP6tS.js                 [39m[1m[2m    0.71 kB[22m[1m[22m[2m │ gzip:   0.50 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/index-DrFu-skq.js                   [39m[1m[2m    0.77 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/preview-C6H47hBs.js                 [39m[1m[2m    0.77 kB[22m[1m[22m[2m │ gzip:   0.50 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/v4-CQkTLCs1.js                      [39m[1m[2m    0.81 kB[22m[1m[22m[2m │ gzip:   0.43 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/Header.stories-DhJmj26W.js          [39m[1m[2m    1.19 kB[22m[1m[22m[2m │ gzip:   0.67 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/Button.stories-B8hfZRmC.js          [39m[1m[2m    1.68 kB[22m[1m[22m[2m │ gzip:   0.82 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/index-DG270dc2.js                   [39m[1m[2m    1.75 kB[22m[1m[22m[2m │ gzip:   0.89 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/DocsRenderer-CFRXHY34-CJalYaOn.js   [39m[1m[2m    2.08 kB[22m[1m[22m[2m │ gzip:   1.03 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/Button-C3IyFXyG.js                  [39m[1m[2m    2.30 kB[22m[1m[22m[2m │ gzip:   0.94 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/Header-Cpb35MJU.js                  [39m[1m[2m    2.37 kB[22m[1m[22m[2m │ gzip:   1.09 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/index-D-8MO0q_.js                   [39m[1m[2m    2.58 kB[22m[1m[22m[2m │ gzip:   1.26 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/preview-D0N1Y6iQ.js                 [39m[1m[2m    2.75 kB[22m[1m[22m[2m │ gzip:   1.38 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/EcnaComponent.stories-BPZTcsMw.js   [39m[1m[2m    3.04 kB[22m[1m[22m[2m │ gzip:   1.33 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/entry-preview-docs-CBY3CyRE.js      [39m[1m[2m    3.38 kB[22m[1m[22m[2m │ gzip:   1.61 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/preview-D01axvrP.js                 [39m[1m[2m    3.44 kB[22m[1m[22m[2m │ gzip:   1.76 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/Page.stories-BKeXICMx.js            [39m[1m[2m    3.46 kB[22m[1m[22m[2m │ gzip:   1.72 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/preview-D77C14du.js                 [39m[1m[2m    5.03 kB[22m[1m[22m[2m │ gzip:   1.86 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/iframe-DZaS-gSx.js                  [39m[1m[2m    5.04 kB[22m[1m[22m[2m │ gzip:   2.01 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/props-B8z70m3q.js                   [39m[1m[2m    5.48 kB[22m[1m[22m[2m │ gzip:   2.40 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/preview-BWzBA1C2.js                 [39m[1m[2m    7.62 kB[22m[1m[22m[2m │ gzip:   1.56 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/preview-CFgKly6U.js                 [39m[1m[2m    8.12 kB[22m[1m[22m[2m │ gzip:   3.10 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/create-runtime-stories-BVdtEpfC.js  [39m[1m[2m    9.99 kB[22m[1m[22m[2m │ gzip:   3.68 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/custom-element-DJBQk3lE.js          [39m[1m[2m   19.93 kB[22m[1m[22m[2m │ gzip:   7.93 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/Configure-Cgih7BUK.js               [39m[1m[2m   25.84 kB[22m[1m[22m[2m │ gzip:  11.01 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/Color-F6OSRLHC-B9QgVDtl.js          [39m[1m[2m   29.30 kB[22m[1m[22m[2m │ gzip:  11.03 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/index-BHYIh-Xd.js                   [39m[1m[2m   49.10 kB[22m[1m[22m[2m │ gzip:  14.22 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/entry-preview-Dcaz7an8.js           [39m[1m[2m  426.91 kB[22m[1m[22m[2m │ gzip: 107.69 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/index-DLuT9rNG.js                   [39m[1m[33m  545.40 kB[39m[22m[2m │ gzip: 144.76 kB[22m
-[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--19536-wWGNYnHsoWjv/[22m[36massets/index-B87U9ST6.js                   [39m[1m[33m1,030.14 kB[39m[22m[2m │ gzip: 322.60 kB[22m
-[32m✓ built in 18.85s[39m
-info => Preview built ([38;2;181;126;229m21 s[39m)
-info => Output directory: C:\Users\ARODRI~1\AppData\Local\Temp\chromatic--19536-wWGNYnHsoWjv
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[32massets/context-C0qIqeS4.png                [39m[1m[2m    6.12 kB[22m[1m[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[32massets/styling-Bk6zjRzU.png                [39m[1m[2m    7.24 kB[22m[1m[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[32miframe.html                                [39m[1m[2m   16.34 kB[22m[1m[22m[2m │ gzip:   4.43 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[32massets/docs---vsFbMi.png                   [39m[1m[2m   27.88 kB[22m[1m[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[32massets/share-DGA-UcQf.png                  [39m[1m[2m   40.77 kB[22m[1m[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[32massets/accessibility-W_h2acOZ.png          [39m[1m[2m   42.34 kB[22m[1m[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[32massets/figma-plugin-CH2hELiO.png           [39m[1m[2m   44.25 kB[22m[1m[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[32massets/theming-D6WJLNoW.png                [39m[1m[2m   44.37 kB[22m[1m[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[32massets/testing-cbzR9l9r.png                [39m[1m[2m   49.31 kB[22m[1m[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[32massets/addon-library-BWUCAmyN.png          [39m[1m[2m  467.37 kB[22m[1m[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[35massets/Header-Ck-SSN7O.css                 [39m[1m[2m    0.51 kB[22m[1m[22m[2m │ gzip:   0.30 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[35massets/Button-CGkL19V-.css                 [39m[1m[2m    0.52 kB[22m[1m[22m[2m │ gzip:   0.29 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[35massets/Page-DBaC2xQA.css                   [39m[1m[2m    0.93 kB[22m[1m[22m[2m │ gzip:   0.40 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/preview-CIRcjyVj.js                 [39m[1m[2m    0.11 kB[22m[1m[22m[2m │ gzip:   0.11 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/preview-DQ3pr01T.js                 [39m[1m[2m    0.16 kB[22m[1m[22m[2m │ gzip:   0.16 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/preview-DFmD0pui.js                 [39m[1m[2m    0.17 kB[22m[1m[22m[2m │ gzip:   0.15 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/_commonjsHelpers-Cpj98o6Y.js        [39m[1m[2m    0.24 kB[22m[1m[22m[2m │ gzip:   0.18 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/index-client-gnGcHnVc.js            [39m[1m[2m    0.26 kB[22m[1m[22m[2m │ gzip:   0.21 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/index-BVww1F7q.js                   [39m[1m[2m    0.31 kB[22m[1m[22m[2m │ gzip:   0.21 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/index-C5wCbIWf.js                   [39m[1m[2m    0.39 kB[22m[1m[22m[2m │ gzip:   0.26 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/preview-DGUiP6tS.js                 [39m[1m[2m    0.71 kB[22m[1m[22m[2m │ gzip:   0.50 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/index-DrFu-skq.js                   [39m[1m[2m    0.77 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/preview-BqeFILXz.js                 [39m[1m[2m    0.77 kB[22m[1m[22m[2m │ gzip:   0.50 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/v4-CQkTLCs1.js                      [39m[1m[2m    0.81 kB[22m[1m[22m[2m │ gzip:   0.43 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/Header.stories-DhJmj26W.js          [39m[1m[2m    1.19 kB[22m[1m[22m[2m │ gzip:   0.67 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/Button.stories-B8hfZRmC.js          [39m[1m[2m    1.68 kB[22m[1m[22m[2m │ gzip:   0.82 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/index-CjeKo32h.js                   [39m[1m[2m    1.75 kB[22m[1m[22m[2m │ gzip:   0.89 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/DocsRenderer-CFRXHY34-d_J1B-BW.js   [39m[1m[2m    2.08 kB[22m[1m[22m[2m │ gzip:   1.03 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/Button-C3IyFXyG.js                  [39m[1m[2m    2.30 kB[22m[1m[22m[2m │ gzip:   0.94 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/Header-Cpb35MJU.js                  [39m[1m[2m    2.37 kB[22m[1m[22m[2m │ gzip:   1.09 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/index-D-8MO0q_.js                   [39m[1m[2m    2.58 kB[22m[1m[22m[2m │ gzip:   1.26 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/preview-D0N1Y6iQ.js                 [39m[1m[2m    2.75 kB[22m[1m[22m[2m │ gzip:   1.38 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/EcnaComponent.stories-LBERdmus.js   [39m[1m[2m    3.27 kB[22m[1m[22m[2m │ gzip:   1.39 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/entry-preview-docs-CBY3CyRE.js      [39m[1m[2m    3.38 kB[22m[1m[22m[2m │ gzip:   1.61 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/preview-D01axvrP.js                 [39m[1m[2m    3.44 kB[22m[1m[22m[2m │ gzip:   1.76 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/Page.stories-BKeXICMx.js            [39m[1m[2m    3.46 kB[22m[1m[22m[2m │ gzip:   1.72 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/preview-D77C14du.js                 [39m[1m[2m    5.03 kB[22m[1m[22m[2m │ gzip:   1.86 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/iframe-C-mNiMlG.js                  [39m[1m[2m    5.04 kB[22m[1m[22m[2m │ gzip:   2.01 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/props-B8z70m3q.js                   [39m[1m[2m    5.48 kB[22m[1m[22m[2m │ gzip:   2.40 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/preview-BWzBA1C2.js                 [39m[1m[2m    7.62 kB[22m[1m[22m[2m │ gzip:   1.56 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/preview-CFgKly6U.js                 [39m[1m[2m    8.12 kB[22m[1m[22m[2m │ gzip:   3.10 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/create-runtime-stories-BVdtEpfC.js  [39m[1m[2m    9.99 kB[22m[1m[22m[2m │ gzip:   3.68 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/custom-element-DJBQk3lE.js          [39m[1m[2m   19.93 kB[22m[1m[22m[2m │ gzip:   7.93 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/Configure-C4j9Rkc1.js               [39m[1m[2m   25.84 kB[22m[1m[22m[2m │ gzip:  11.01 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/Color-F6OSRLHC-BqhwZ3qL.js          [39m[1m[2m   29.30 kB[22m[1m[22m[2m │ gzip:  11.03 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/index-BHYIh-Xd.js                   [39m[1m[2m   49.10 kB[22m[1m[22m[2m │ gzip:  14.22 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/entry-preview-Dcaz7an8.js           [39m[1m[2m  426.91 kB[22m[1m[22m[2m │ gzip: 107.69 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/index-DLuT9rNG.js                   [39m[1m[33m  545.40 kB[39m[22m[2m │ gzip: 144.76 kB[22m
+[2m../../../Users/ARODRI~1/AppData/Local/Temp/chromatic--8744-wKcmJJlF8wgj/[22m[36massets/index-FqyD4X_q.js                   [39m[1m[33m1,030.14 kB[39m[22m[2m │ gzip: 322.60 kB[22m
+[32m✓ built in 9.69s[39m
+info => Preview built ([38;2;181;126;229m11 s[39m)
+info => Output directory: C:\Users\ARODRI~1\AppData\Local\Temp\chromatic--8744-wKcmJJlF8wgj
