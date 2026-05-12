@@ -15,7 +15,7 @@
 		parpadea: boolean;
 	} = $props();
 
-	const px = $derived(size === 'xs' ? '50px' : size === 'ms' ? '80px' : '120px');
+	const px = $derived(size === 'xs' ? '50px' : size === 'ms' ? '80px' : '130px');
 </script>
 
 <span class="btn" style:color class:importante class:parpadea style:font-size={px}>
