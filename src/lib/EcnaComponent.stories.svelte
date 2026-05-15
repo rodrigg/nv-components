@@ -2,7 +2,7 @@
 	import { defineMeta } from '@storybook/addon-svelte-csf';
 	import EcnaComponent from './EcnaComponent.svelte';
 
-	// More on how to set up stories at: https://storybook.js.org/docs/writing-stories
+	// More on how to set up stories at:
 	const { Story } = defineMeta({
 		title: 'Example/EcnaComponent',
 		component: EcnaComponent,
