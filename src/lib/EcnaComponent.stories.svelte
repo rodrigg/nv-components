@@ -13,7 +13,8 @@
 				options: ['xs', 'ms', 'ls']
 			},
 			parpadea: { control: { type: 'boolean' } },
-			importante: { control: { type: 'boolean' } }
+			importante: { control: { type: 'boolean' } },
+			aparece: { control: { type: 'boolean' } }
 		},
 		args: {}
 	});
@@ -21,3 +22,4 @@
 
 <!-- More on writing stories with args: https://storybook.js.org/docs/writing-stories/args -->
 <Story name="Prueba" args={{ texto: 'Hola ECNA', color: 'red' }} />
+<Story name="Prueba2" args={{ texto: 'Hola Ecnayuno', color: 'blue', aparece: true }} />
